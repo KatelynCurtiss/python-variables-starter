@@ -1,5 +1,5 @@
-# Student name
-# 04 SEP 2024
+# Katelyn Curtiss
+# 06 SEP 2024
 # Variables Practice
 
 # Demonstrate in this script that you know how to:
@@ -14,19 +14,32 @@
 # A float (AKA floating-point number) is a number -- a numeric value -- that DOES have a decimal point (Example: 3.2537)
 
 # Part 1 / Working with Text (String  Data)
+school = 'Alba'
 # Define a variable called school and assign it the string value Career Tech (using a pair of single quotes)
+school = 'Career Tech'
 # Define a variable called favorite_singer and assign it the string value that is your favorite singer (using a pair of double quotes)
+favorite_singer = 'Marina and the Diamonds' 
 # Define a variable called greeting and assign it a string value you'd use to greet someone (Good morning, Good afternoon, etc.)
+greeting ='Guten tag' 
 # Use the print function to print the value of one of three variables you created in Part 1
+print(school)
+print(favorite_singer)
+print(greeting) 
 
 
 
 
 # Part 2 / Working with Numbers (Numeric Data)
 # Define a variable called my_age and assign it your age as an integer
+my_age = '17' 
 # Define a variable called conversion_factor and assign it the value of 2.54 (a float/floating-point number)
+conversion_factor = '2.54'  
 # Define a variable called book_price and assign it a value of 20.99 (a float/floating-point number)
+book_price = '20.99'
 # Use the print function to print the value of one of three variables you created in Part 2
+print(my_age)
+print(conversion_factor)
+print(my_age) 
 
 
 
@@ -37,3 +50,11 @@
 # Use the print function to print your first name on your screen
 # Use the print function to print the name of the city you live in on your screen
 # Use the print function to print your age on your computer screen
+
+firstname = 'Katelyn'
+city = 'Elmira'
+age = '18'
+
+print(firstname)
+print(city)
+print(age) 
